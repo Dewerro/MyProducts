@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_categories_list_categories_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_circle_half.xml" value="0.24739583333333334" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_circle_quarter_1.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_circle_quarter_2.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_cross.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_drop_down_arrow.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_product_selected_screen_background_light.xml" value="0.5" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_product_selected_screen_background_squares.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_products_list_products_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_products_list_shopping_cart.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_products_screen_cross.xml" value="0.24895833333333334" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_products_screen_shopping_cart.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_products_screen_trash_box.xml" value="0.23802083333333332" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_box_with_tools.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_box_with_tools_dark.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_box_with_tools_light.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_categories_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_products_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_shopping_bag_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_shopping_bag_icon_dark.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_shopping_bag_icon_dark_theme.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_shopping_bag_icon_light.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_select_option_screen_shopping_bag_icon_light_theme.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_trash_box.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/app_trash_box_icon.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/drawable/ic_vector.xml" value="0.23958333333333334" />
+        <entry key="..\:/Study/AndroidStudioProject/MyProducts/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.37864583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
