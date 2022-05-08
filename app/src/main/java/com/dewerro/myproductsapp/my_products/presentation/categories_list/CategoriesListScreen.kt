@@ -159,6 +159,7 @@ fun CategoriesListScreen(
                                     painter = painterResource(R.drawable.app_trash_box_icon),
                                     contentDescription = "Trash box icon",
                                     modifier = Modifier
+                                        .size(50.dp)
                                         .padding(5.dp)
                                         .alpha(dismissState.progress.fraction * 1.8F),
                                     tint = Color.Red
